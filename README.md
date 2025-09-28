@@ -2,6 +2,8 @@
 
 A modern, responsive intranet portal built with React, Redux, and Tailwind CSS. This application provides a comprehensive platform for company employees to access HR information, financial data, IT support, employee directory, photo gallery, and organizational charts.
 
+Demo link :- https://intranet-portal-one.vercel.app/
+
 ## 🚀 Features
 
 ### 🔐 Authentication & Security
